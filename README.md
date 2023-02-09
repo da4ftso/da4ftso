@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @da4ftso
 - Mac fleet admin
 - Jamf Pro since Casper v5
-- Sailboat racing, photography, hazy IPAs
+- Sailboat racing, photography, live music, hazy IPAs
 - Chicago, IL
 
 <!---
