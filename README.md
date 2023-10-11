@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @da4ftso
+- 👋 Hi, I’m @da
 - Mac fleet admin
 - Jamf Pro since Casper v5
+- if it MDMs I have probably MDMd it at least once
 - Sailboat racing, photography, live music, hazy IPAs
 - Chicago, IL
 
